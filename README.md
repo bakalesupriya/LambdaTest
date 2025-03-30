@@ -1,2 +1,0 @@
-# LambdaTest
-LambdaTest Project
